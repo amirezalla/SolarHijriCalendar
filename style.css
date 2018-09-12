@@ -1,3 +1,23 @@
 @import url('https://fonts.googleapis.com/css?family=Lalezar');
 *,body{font-family: 'Lalezar';
 direction: rtl;}
+.Lalezar{
+    font-family: 'Lalezar';
+}
+  footer{
+      padding: 20px 0 20px 0;
+    background: #E7E3E3;
+    min-height: 80px;
+    box-shadow: 0 1px 15px 0 rgba(0, 0, 0, 0.32);
+    z-index: 100;
+    bottom: 0;
+    left:0;
+    right:0;
+}
+#date {
+padding-top: 21px;
+font-family: "Lalezar";
+  direction: rtl;
+  text-align: center;
+  margin:0;
+}
