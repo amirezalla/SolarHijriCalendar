@@ -1,4 +1,8 @@
 # SolarHijriCalendar
+This is how it works...
+this feature will update every 24Hours in Iran\
+i don't know everyy where that uses this type of calendar.\
+i hope this feature helps to your website perfomance!
 
 # How To Use
 It's Easy to do!
